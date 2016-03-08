@@ -1,0 +1,1 @@
+Please read for hacking this: http://edx.readthedocs.org/projects/edx-installing-configuring-and-running/en/latest/theming/index.html
